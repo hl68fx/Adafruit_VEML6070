@@ -1,5 +1,5 @@
 // This #include statement was automatically added by the Particle IDE.
-#include "Adafruit_VEML6070.h"
+#include "Adafruit_VEML6070/Adafruit_VEML6070.h"
 
 Adafruit_VEML6070 uv = Adafruit_VEML6070();
 
