@@ -1,6 +1,6 @@
 {
     "name": "Adafruit_VEML6070",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Limor (Ladyada) Fried, Tony DiCola",
     "license": "BSD",
     "description": "Adafruit_VEML6070 library for Particle"
