@@ -11,8 +11,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 #include "application.h"
-#include "Adafruit_VEML6070/Adafruit_VEML6070.h"
-
+#include "Adafruit_VEML6070.h"
 
 void Adafruit_VEML6070::begin(veml6070_integrationtime_t itime) {
   Wire.begin();
