@@ -10,8 +10,6 @@
   Written by Limor Fried/Ladyada for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
  ****************************************************/
-
- #include "application.h"
  
 // really unusual way of getting data, your read from two different addrs!
 #define VEML6070_ADDR_H 0x39
