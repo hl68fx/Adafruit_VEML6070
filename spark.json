@@ -1,0 +1,7 @@
+{
+    "name": "PID-AutoTune",
+    "version": "0.0.3",
+    "author": "Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com",
+    "license": "GPLv3",
+    "description": "PID AutoTune library for Particle"
+}
